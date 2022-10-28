@@ -6,6 +6,7 @@ Testado com PHP 5.6 e 7.2
 
 Uso da Class:
 
+```php
 <?php
 
 require_once(__DIR__ . '/Zeus3Api.php');
@@ -40,3 +41,4 @@ echo "<br>";
 print_r($zeus->getDeviceInfo());
 
 ?>
+```
